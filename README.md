@@ -47,5 +47,6 @@ arduino
 Copy
 Edit
 http://localhost:8080
+
 🎯 Purpose
 This project is ideal for companies looking for an affordable, easy-to-use management solution without complex dependencies. It’s also great for students and developers to learn full-stack development using Java and modern web technologies.
